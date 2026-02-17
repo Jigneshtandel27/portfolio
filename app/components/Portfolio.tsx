@@ -18,7 +18,10 @@ export default function Portfolio() {
           }
         });
       },
-      { threshold: 0.05 },
+      {
+        rootMargin: "0px 0px -15% 0px",
+        threshold: 0.1,
+      },
     );
 
     elements.forEach((el) => observer.observe(el));
