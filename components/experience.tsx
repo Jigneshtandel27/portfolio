@@ -54,7 +54,7 @@ export default function Experience() {
               className="relative"
             >
               {/* Timeline bubble */}
-              <div className="absolute -left-[30px] md:-left-[44px] top-1.5 h-6 w-6 rounded-full border-4 border-background bg-linear-to-br from-indigo-500 to-blue-600 shadow-md flex items-center justify-center scale-100 group-hover:scale-110 transition-transform">
+              <div className="absolute -left-[28px] md:-left-[34px] top-1.5 h-6 w-6 rounded-full border-4 border-background bg-linear-to-br from-indigo-500 to-blue-600 shadow-md flex items-center justify-center scale-100 group-hover:scale-110 transition-transform">
                 <div className="h-1.5 w-1.5 rounded-full bg-white animate-pulse" />
               </div>
 
