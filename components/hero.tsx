@@ -7,7 +7,7 @@ import { Github, Linkedin, Download, ArrowRight, MapPin } from "lucide-react";
 
 export default function Hero() {
   return (
-    <section className="min-h-[85vh] flex items-center justify-center pt-20 pb-12 md:pt-28 md:pb-20">
+    <section id="home" className="min-h-[85vh] flex items-center justify-center pt-20 pb-12 md:pt-28 md:pb-20">
       <div className="max-w-6xl mx-auto w-full">
         <div className="grid lg:grid-cols-12 gap-12 lg:gap-16 items-center">
           {/* LEFT */}
