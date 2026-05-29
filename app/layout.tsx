@@ -14,6 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://jignesh-tandel-portfolio.vercel.app"),
   title: "Jignesh Tandel | Full Stack Developer",
   description:
     "Full Stack Developer with professional experience in Next.js, TypeScript, and the MERN stack. Specialized in building scalable web applications and secure APIs.", // Derived from your summary
