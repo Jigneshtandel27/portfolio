@@ -48,7 +48,7 @@ Live Demo: https://ecommerce-frontend-b1zb.onrender.com
 A production-style MERN application with authentication, admin controls, and structured APIs.
 
 ### 🔹 Scalable E-commerce Platform (In Progress)
-Live Demo: https://tandel-ecommerce-ui.vercel.app  
+Live Demo: https://velro-web.vercel.app  
 
 Backend-focused architecture featuring RBAC, secure authentication, and modular design.
 
